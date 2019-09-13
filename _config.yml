@@ -184,9 +184,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  Professional activities:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -235,15 +232,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _professional_activities
-  - scope:
-      path: ""
-      type: professional_activities
-    values:
-      layout: single
-      author_profile: true
-      share: true    
+      comment: true  
 
 # Sass/SCSS
 sass:
