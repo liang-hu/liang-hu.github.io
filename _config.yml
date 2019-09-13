@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Professional activities:
     output: true
     permalink: /:collection/:path/
 
@@ -227,6 +227,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _professional activities
+  - scope:
+      path: ""
+      type: professional activity
+    values:
+      layout: single
+      author_profile: true
+      share: true    
   # _portfolio
   - scope:
       path: ""
@@ -236,14 +244,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
