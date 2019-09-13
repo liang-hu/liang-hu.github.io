@@ -11,6 +11,6 @@ My research tries to address fundamental challenges of autonomy, safety and secu
 ## Safe Autonomous Navigation in Shared Environments
 * Safe human robots interaction is an promising technique to assure the safety of autonomous systems that run in shared environements with human users.
 
-* [Safe human robots interaction]({{ site.url }}/file/Survey_Safe_Human_Robot_Interaction.pdf)
+* [Safe human robots interaction]({{ site.url }}/files/Survey_Safe_Human_Robot_Interaction.pdf)
 
 
