@@ -23,7 +23,7 @@ Work experience
 * Lecturer, School of Computer Science and Informatics, De Montfort University, UK, 2018.01-2019.09
 * Research Associate, [Loughborough University](https://www.lboro.ac.uk/), Loughborough, UK2017.09-2018.01
   * Advisor: [Prof. Wen-hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/)
-  * EPSRC/Dstl joint research project "[Signal Processing Solutions for the Networked Battle Space[(https://www.udrc.eng.ed.ac.uk/archive/phase-2/people/lssc-consortium/dr-liang-hu)"
+  * EPSRC/Dstl joint research project "[Signal Processing Solutions for the Networked Battle Space](https://www.udrc.eng.ed.ac.uk/archive/phase-2/people/lssc-consortium/dr-liang-hu)"
 * Research Fellow, [Queen's University Belfast](https://qub.ac.uk/), Belfast, UK, 2016.02-2017.09
   * Advisor: [Dr. Wasif Naeem](https://pure.qub.ac.uk/portal/en/persons/wasif-naeem(a8fb4ae6-36e5-4305-af17-5543605ae389).html)
   * Innovate UK research project "[MAXCMAS](https://gtr.ukri.org/projects?ref=102308)" with industry lead [Rolls Royce plc.](https://www.rolls-royce.com/media/press-releases/2018/21-03-2018-maxcmas-success-suggests-colregs-remain-relevant-for-autonomous-ships.aspx)
