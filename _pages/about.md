@@ -18,10 +18,3 @@ Recent News
 
 * August 12, 2019. I will be joining Essex Robotics Group in the School of CS&EE, Uninversity of Essex, UK in October, 2019.
 
-
-
-Research area
-------
-* Control and Estimation
-* Robotics and Automous Systems
-* Cyber-Physical Systems
