@@ -5,4 +5,4 @@ collection: research
 ---
 Safe human robots interaction is an promising technique to assure the safety of autonomous systems that run in shared environements with human users.
 
-* [Safe human robots interaction]({{ site.url }}/file/pdf/survey_safe_human_robots_interactions.pdf)
+* [Safe human robots interaction]({{ site.url }}/file/Survey_Safe_Human_Robot_Interaction.pdf)
