@@ -5,7 +5,6 @@ permalink: /professional-activities/
 author_profile: true
 ---
 
-# Editorship
 ## Associate Editor
 * IEEE Access, 2019--now
 * Evolutionary Intelligence (Springer), 2018--present.
@@ -14,10 +13,8 @@ author_profile: true
 * Journal Sensors, Special Issue on "Networked Sensing for Autonomous Cyber-Physical Systems: Theory and Applications", 2019.
 * Journal Complexity, Special Issue on "Bio-Inspired Learning and Adaptation for Optimisation and Control of Complex System", 2018. 
 
-# Conference/workshop Organisation
-## conference Chair
+## Conference Chair
 * Publicity Chair, the 5th IEEE Smart World Congress, 08/2019, Leicester, UK.
-
 
 ## Session Chair
 * Session "Cyber-Physical Systems", the 12th UKACC International Conference on Control, 09/2018, Sheffield, UK.
@@ -31,4 +28,4 @@ author_profile: true
 * The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2018), 10/2018, Guangzhou, China.
 * The 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS 2018 ), 11/2018, Nanjing, China.
 
-### Invited Talk
+## Invited Talks
