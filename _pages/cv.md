@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in [Computer Science](https://www.brunel.ac.uk/computer-science), [Brunel University London](https://www.brunel.ac.uk/), 2016
+* Ph.D in [Computer Science](https://www.brunel.ac.uk/computer-science), [Brunel University London](https://www.brunel.ac.uk/), Lodnon, UK, 2016
   * Supervisor: [Prof. Zidong Wang](http://people.brunel.ac.uk/~csstzzw/)
-* M.Eng. in Control Science and Engineering, [Harbin Institute of Technology](http://en.hit.edu.cn/), 2010
+* M.Eng. in Control Science and Engineering, [Harbin Institute of Technology](http://en.hit.edu.cn/), Harbin, China, 2010
   * Supervisor: [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun)
-* B.Eng. in Detection, Guidance and Control, [Harbin Institute of Technology](http://en.hit.edu.cn/), 2008
+* B.Eng. in Detection, Guidance and Control, [Harbin Institute of Technology](http://en.hit.edu.cn/), Harbin, China, 2008
   * Supervisor: [Prof. Huijun Gao](http://homepage.hit.edu.cn/gaohuijun)  
 
 Work experience
 ======
-* Lecturer (Assistant Professor), School of Computer Science and Informatics, De Montfort University, UK, 2018.01--2019.09
+* Lecturer, [De Montfort University](https://www.dmu.ac.uk/), UK, 2018.01--2019.09
+  * [Institute of Artificial Intelligence](https://www.dmu.ac.uk/research/centres-institutes/iai/index.aspx), School of Computer Science and Informatics
 * Research Associate, [Loughborough University](https://www.lboro.ac.uk/), Loughborough, UK, 2017.09--2018.01
   * Advisor: [Prof. Wen-hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/)
   * EPSRC/Dstl joint research project "[Signal Processing Solutions for the Networked Battle Space](https://www.udrc.eng.ed.ac.uk/archive/phase-2/people/lssc-consortium/dr-liang-hu)"
