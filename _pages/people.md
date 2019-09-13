@@ -17,11 +17,11 @@ author_profile: true
 
 ## Potential Funding oppurtunity 
 If you are interested in the following oppurtunities, please contact me before your application.
-# Postdoc
+### Postdoc
 * [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
-# PhD students
+### PhD students
 * China Scholarship Council
-# Visting PhD students
+### Visting PhD students
 * China Scholarship Council
 
 ## MSc Students
