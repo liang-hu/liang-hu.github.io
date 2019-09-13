@@ -2,7 +2,7 @@
 title: "Control Engineering"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2016-spring-teaching-1
 venue: "Queen's University Belfast, School of EEECS"
 date: Spring, 2016
 location: "Belfast, UK"
