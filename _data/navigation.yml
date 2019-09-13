@@ -7,19 +7,16 @@ main:
     url: /people/
     
   - title: "Publications"
-    url: /publications/  
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Prefessional Activities"
-    url: /Prefessional_Activities/  
-    
-  - title: "Software"
-    url: /software/ 
+    url: /publications/    
     
   - title: "Portfolio"
     url: /portfolio/
+    
+  - title: "Professional Activities"
+    url: /prefessional_activities/
+    
+  - title: "Teaching"
+    url: /teaching/  
         
  #  - title: "Blog Posts"
  #    url: /year-archive/
