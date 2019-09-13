@@ -21,7 +21,7 @@ author_profile: true
 * Session "Condition Monitoring and Systems", the 24th International Conference on Automation and Computing (ICAC), 09/2018, Newcastle, UK.
 * Session "Networked Control Systems & Applications", the 11th UKACC International Conference on Control, 09/2016, Belfast, UK.
 
-## TPC member
+## TPC Member
 * The 16th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2019), 08/2019, Leicester, China.
 * The 15th International Conference on Control, Automation, Robotics and Vision (ICARCV 2018), 11/2018, Singapore.
 * The 11th International Workshop on Human-Friendly Robotics (HFR 2018), 11/2018, Shenzhen, China.
