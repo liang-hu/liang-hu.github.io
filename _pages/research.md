@@ -9,5 +9,6 @@ author_profile: true
 My research tries to address fundamental challenges of autonomy, safety and security in autonomous sytems and robotics. To achive that, I have been developing a systemetic approach that integrates control theory, Bayesian estimation and machine learning techniques seamlessly. 
 
 ## Safe Autonomous Navigation in Shared Environments
+* Safe human robots interaction
 
 
