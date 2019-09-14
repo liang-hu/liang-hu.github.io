@@ -18,6 +18,6 @@ Chao Ren, Yutong Ding, Shugen Ma, <b>Liang Hu</b> and Xinshan Zhu.<br>
 <b>Liang Hu</b>, Zidong Wang, Qing-Long Han and Xiaohui Liu.<br>
 <i>Automatica.</i> <b>2018</b>.
 
-<b>[Event-Based Input and State Estimation for Linear Discrete Time-Varying Systems](https://www.tandfonline.com/doi/abs/10.1080/00207179.2016.1269205)</b><br><b>Liang Hu</b>, Zidong Wang, Qing-Long Han and Xiaohui Liu.<br><i>Automatica.</i> <b>2018</b>.
+<b>[Event-Based Input and State Estimation for Linear Discrete Time-Varying Systems](https://www.tandfonline.com/doi/abs/10.1080/00207179.2016.1269205)</b><br><b>Liang Hu</b>, Zidong Wang, Qing-Long Han and Xiaohui Liu.<br><i>International Journal of Control.</i> <b>2018</b>.
 
 
