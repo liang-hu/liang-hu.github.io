@@ -12,7 +12,7 @@ author_profile: true
 Chao Ren, Yutong Ding, Shugen Ma, <b>Liang Hu</b> and Xinshan Zhu.<br>
 <i>Control Engineering Practice.</i> <b>2019</b>.
 
-<b>[Robust predictive speed regulation of converter-driven dc motors via a discrete-time reduced-order gpio](https://ieeexplore.ieee.org/abstract/document/8517149/)</b><br><b>Jun Yang, Han Wu, Liang Hu</b> and Shihua Li.<br><i>IEEE Transactions on Industrial Electronics.</i> <b>2019</b>.
+<b>[Robust predictive speed regulation of converter-driven dc motors via a discrete-time reduced-order gpio](https://ieeexplore.ieee.org/abstract/document/8517149/)</b><br>Jun Yang, Han Wu, <b>Liang Hu</b> and Shihua Li.<br><i>IEEE Transactions on Industrial Electronics.</i> <b>2019</b>.
 
 <b>[State Estimation under False Data Injection Attacks: Security Analysis and System Protection](https://www.sciencedirect.com/science/article/pii/S0005109817304983)</b><br>
 <b>Liang Hu</b>, Zidong Wang, Qing-Long Han and Xiaohui Liu.<br>
