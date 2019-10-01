@@ -14,7 +14,7 @@ My research interests include: Safe Autonomy; Cyber-Physical Systems; Bayesian F
 
 Recent News
 ======
-* September 13, 2019. I am co-orignising a special issue **"[Networked Sensing for Autonomous Cyber-Physical Systems: Theory and Applications](http://www.mdpi.com/journal/sensors/special_issues/networked_sensing)" in the journal Sensor (IF: 3.031)**. Welcome your submission!
+* September 13, 2019: I am co-orignising a special issue **"[Networked Sensing for Autonomous Cyber-Physical Systems: Theory and Applications](http://www.mdpi.com/journal/sensors/special_issues/networked_sensing)" in the journal Sensor (IF: 3.031)**. Welcome your submission!
 
-* August 12, 2019. I will be joining Essex Robotics Group in the School of CS&EE, Uninversity of Essex, UK in October, 2019.
+* August 12, 2019: I will be joining Essex Robotics Group in the School of CS&EE, Uninversity of Essex, UK in October, 2019.
 
