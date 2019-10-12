@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) in the [Essex Robotics Group](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/robotics), as part of the [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), [University of Essex](https://www.essex.ac.uk/), UK. 
+I am a Lecturer (Assistant Professor) in the [Essex Robotics Group](https://essexrobotics.essex.ac.uk), as part of the [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), [University of Essex](https://www.essex.ac.uk/), UK. 
 
 My research interests include: Safe Autonomy; Cyber-Physical Systems; Bayesian Filtering and Learning; Control Theory.   
 
